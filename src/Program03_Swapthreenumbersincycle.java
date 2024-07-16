@@ -22,6 +22,7 @@ public class Program03_Swapthreenumbersincycle {
  
         System.out.println("Value after swapping:");
         System.out.println("a = " + arr[0] + "\nb = " + arr[1] + "\nc = " + arr[2]);
+        
     }
 }
 
